@@ -1,0 +1,6 @@
+{
+  "name": "SpaceEdu - Planet Hero",
+  "description": "A full-viewport space-themed interactive hero section for SpaceEdu featuring Earth, Venus, and Mars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
